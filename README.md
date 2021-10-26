@@ -1,5 +1,5 @@
 # python-AI
-this is a AI based Python project. I wanted to make the machine perform some task by just saying it. To do this I used these modules
+this is a AI based Python project. I have used Pycharm https://www.jetbrains.com/pycharm/download/#section=windows to write this project. I wanted to make the machine perform some task by just saying it. To do this I used these modules
 
 1. re ( RegEx ) - to match user's question in a pattern
 2. datetime - to use system's default date time
